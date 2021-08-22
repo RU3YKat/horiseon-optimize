@@ -11,9 +11,8 @@
 [Github Repository] https://github.com/RU3YKat/horiseon-optimize/
 
 ---
-[screenshot]
 
-
+![index.html-fullpage](https://github.com/RU3YKat/horiseon-optimize/blob/main/assets/images/horiseon-opt_fullpg_082021.png?raw=true)
 
 ---
 Provided codebase for Horiseon's index.html and css stylesheet refactored to follow accessibility standards and optimize code for search engine visibility.
